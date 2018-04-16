@@ -1,4 +1,4 @@
-# ResNext50-32x4d-_pytorch_PretrainedModel
+# ResNext50-32x4d_pytorch_PretrainedModel
 
 ### ResNeXt (Aggregated Residual Transformations for Deep Neural Networks)
 #### I trained the ResNext50-32x4d using the Imagenet1K dataset.
